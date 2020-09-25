@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No Fun Fact
 
-https://github-readme-stats.vercel.app/api?username=akbarumar88&&show_icons=true&title_color=151515&icon_color=28a745&text_color=333333&bg_color=f5f5f5
+<img src="https://github-readme-stats.vercel.app/api?username=akbarumar88&&show_icons=true&title_color=151515&icon_color=28a745&text_color=333333&bg_color=f5f5f5" />
